@@ -88,3 +88,15 @@ body{
 .item_status {
   font-style: italic;
 }
+
+.github-button {
+  display: inline-flex;
+  align-items: center;
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin-top: 5px;
+  padding: 4px;
+}
